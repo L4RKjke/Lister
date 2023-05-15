@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "230009005282",
+    "firebase_url": "https://sanyadz-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sanyadz",
+    "storage_bucket": "sanyadz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230009005282:android:05720aed0a57e7b500eabb",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Lister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230009005282-a8e1mh45am9kp3k6tqb0buo7cffj3mct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsiqfD1e1obUm6cX-UcefcFCBJ0Dr04RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230009005282-a8e1mh45am9kp3k6tqb0buo7cffj3mct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
